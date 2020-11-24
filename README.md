@@ -16,7 +16,7 @@ This game is more attractive to teens and young adults. Players between age 15 t
 
 3) Purchasing/Spending Trend
 
-While there are remarkably more male players than the female players, the average purchase of the female player is slightly higher than the male players ($4.47 vs $4.07 respectively). 
+While there are remarkably more male players than the female players, the average purchase of the female player is slightly higher than the male players ($4.47 vs. $4.07 respectively). 
 
 Not surprisingly, the top total purchasing group is the age group from 20 to 24. 4 of the 5 top spenders are also from this age group.
 
