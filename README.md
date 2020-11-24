@@ -25,21 +25,21 @@ Interestingly, among the different age groups, the highest average total purchas
 
 # Pandas functions used on DataFrames (df) for analysis
 
-Markup : *computational/statistical
+- computational/statistical
 df.nunique
 df.count
 df.mean
 df.sum
-Markup : *data selection
+- data selection
 df.head
 df.drop_duplicates
 df.loc
-Markup : *reindexing
+- reindexing
 df.set_index
-Markup : *output dispaly
+- output dispaly
 pd.DataFrame
 df.map(.format)
-Markup : *functional applications
+- functional applications
 df.groupby
 pd.cut(bins)
 df.sort_values
