@@ -23,23 +23,23 @@ Not surprisingly, the top total purchasing group is the age group from 20 to 24.
 Interestingly, among the different age groups, the highest average total purchase per person falls to age groups under 10 and between 35-39. This finding implies that young children (most likely purchased by adults) and/or adults with disposable income are willing to spend more on games.
 
 
-Pandas functions used on DataFrames (df) for analysis
+# Pandas functions used on DataFrames (df) for analysis
 
-# computational/statistical
+Markup : *computational/statistical
 df.nunique
 df.count
 df.mean
 df.sum
-# data selection
+Markup : *data selection
 df.head
 df.drop_duplicates
 df.loc
-# reindexing
+Markup : *reindexing
 df.set_index
-# output dispaly
+Markup : *output dispaly
 pd.DataFrame
 df.map(.format)
-# functional applications
+Markup : *functional applications
 df.groupby
 pd.cut(bins)
 df.sort_values
